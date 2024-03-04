@@ -22,7 +22,7 @@ The backend provides APIs to perform CRUD operations on trains and retrieve trai
    - click the project and go to the run as >> spring boot app
    - this project running on port number 9090
    - after running this project go to the browser and paste this URL <http://localhost:9090/swagger-ui/index.html> see the screenshots of all the API
-     # 
+     # ![Apis](https://github.com/vivekgithub1997/Train-Scheduling-System/assets/61921329/bcfba1b3-01ba-4a6e-bb37-5380af165e4c)
 
     # Let's assume you have the following endpoints in your train scheduling system:
 
